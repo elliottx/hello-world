@@ -1,4 +1,6 @@
 hello-world
 ===========
 
-This is my demo repository
+Hi Humans!
+
+This is me writing a fake readme.
